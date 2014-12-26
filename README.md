@@ -1,6 +1,10 @@
-# Tree View package [![Build Status](https://travis-ci.org/atom/tree-view.svg?branch=master)](https://travis-ci.org/atom/tree-view)
-
+# Tree View package
 Explore and open files in the current project.
+
+# Mods by stack:
+- Modified main.coffee(shouldCreateTreeViews) & tree-view.coffee(Multiple attachment / initialization of element bug)
+- Works with tree-view-open-files
+- Besides that - none yet
 
 Press `cmd-\` to open/close the Tree view and `ctrl-0` to focus it.
 
